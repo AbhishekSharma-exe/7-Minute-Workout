@@ -3,4 +3,5 @@
     <string name="metric_units">METRIC UNITS</string>
     <string name="us_units">US UNITS</string>
     <string name="weight_in_kg">WEIGHT (in kg)</string>
+    <string name="cover_image">cover image</string>
 </resources>
